@@ -1,15 +1,17 @@
 body
 {
+    background: url("../images/logo.jpg");
     font-family: 'Courier New', Courier, monospace;
-    color: #333;
+    color: black;
     text-align: center;  
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 #header{
-    background: red;
-    color: white;
+    background-color: rgb(209, 20, 20);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: black;
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
